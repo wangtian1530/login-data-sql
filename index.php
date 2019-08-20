@@ -12,10 +12,10 @@ if(isset($_GET['out'])){
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>hệ thống login jquery không load trang</title> 
-        <link rel="stylesheet" href="css/index.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="index.css" type="text/css" media="all" />
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> 
-        <script src="js/jquery.js" type="text/javascript" charset="utf-8"></script> 
-        <script src="js/index.js" type="text/javascript" charset="utf-8"></script>
+        <script src="jquery.js" type="text/javascript" charset="utf-8"></script> 
+        <script src="index.js" type="text/javascript" charset="utf-8"></script>
   
     </head>
     <body>
